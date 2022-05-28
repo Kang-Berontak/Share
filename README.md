@@ -23,5 +23,4 @@ KAGAK USAH DI BACA , GABUT AMAT LU
 
 # 💤💤💤
 
-
-<p></img src="94d79e560785694a069eb0dc6bdc53a8.jpg" /></p>
+<p><img src="94d79e560785694a069eb0dc6bdc53a8.jpg" /></p>
